@@ -1,2 +1,19 @@
-# NIGHTMARE-GRANNY
-Descrição do jogo✓  Você acordou em uma casa sombria e precisa escapar antes que seja tarde. Mas desta vez, tudo está contra você: inimigos mais rápidos, armadilhas mortais, menos recursos e uma inteligência artificial imprevisível. Explore, resolva enigmas e sobreviva sem fazer barulho. Cada erro pode ser o último.
+nightmare-granny/
+├── README.md
+├── requirements.txt
+├── main.py
+├── config.py
+├── game/
+│   ├── __init__.py
+│   ├── player.py
+│   ├── enemy.py
+│   ├── map.py
+│   ├── items.py
+│   ├── doors.py
+│   └── game_manager.py
+├── assets/
+│   ├── models/
+│   ├── textures/
+│   ├── sounds/
+│   └── music/
+└── .gitignore
